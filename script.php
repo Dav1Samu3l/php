@@ -11,7 +11,8 @@
     <h1>Fundamentos do exercicio 01 </h1>
     <?php
     $nome=$_POST['name'];
-    
+    $nota1=$_POST['nota1'];
+
 
 
 
